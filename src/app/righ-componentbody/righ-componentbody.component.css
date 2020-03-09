@@ -1,0 +1,16 @@
+.right-parrafo{
+    border: 1px solid green;
+    height: 300px;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+p.small {
+    line-height: 1.8;
+  }
+  
+  p.big {
+    line-height: 3.8;
+  }

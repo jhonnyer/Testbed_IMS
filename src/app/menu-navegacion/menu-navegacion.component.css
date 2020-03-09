@@ -1,0 +1,45 @@
+/*nav a {
+    color:white
+    }
+    
+.navbar {
+    background-color: #394046;
+    border: none;
+}
+    
+      
+
+      
+.menu {
+   padding: 0px;
+ }
+      
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+ }
+*/
+
+li {
+    margin: 5px 0px 5px 0px;
+    font-size: 17px;
+ }
+
+.navbar-inverse {
+    background-color: #27363d;
+    border: none;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: rgb(255, 255, 255);
+  }
+  
+  .navbar-inverse .navbar-toggle .icon-bar {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .navbar-inverse .navbar-nav>.active>a,
+  .navbar-inverse .navbar-nav>.active>a:hover,
+  .navbar-inverse .navbar-nav>.active>a:focus {
+    background-color: #2d4144;
+  }
